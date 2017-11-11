@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AnimeAutopsy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AnimeAutopsy_jar</output-path>
+    <root id="archive" name="AnimeAutopsy.jar">
+      <element id="module-output" name="AnimeAutopsy" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/sample/controlsfx-8.40.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Software assets/hsqldb-2.4.0/hsqldb/lib/hsqldb.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
