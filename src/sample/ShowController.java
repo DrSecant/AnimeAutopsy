@@ -165,6 +165,6 @@ public class ShowController implements Initializable
 
     private String makeLegalString(String old)
     {
-        return old.replace("'", "^");
+        return old.replace("'", "''");
     }
 }
